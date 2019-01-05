@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.impetus.kundera.client:kundera-elastic-search:3.13">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.impetus.kundera.client/kundera-elastic-search/3.13/1067a51cbf406f8e53a91efda87bb94eb5781aa4/kundera-elastic-search-3.13.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.impetus.kundera.client/kundera-elastic-search/3.13/f117a9fcbe256d99542f1c4207b414b1d86cec4a/kundera-elastic-search-3.13-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

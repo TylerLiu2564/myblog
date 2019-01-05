@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.impetus.kundera.core:kundera-core:3.13">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.impetus.kundera.core/kundera-core/3.13/aba64e24257f6584b981f2a3c68bfcca6be306ec/kundera-core-3.13.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.impetus.kundera.core/kundera-core/3.13/84b9f69f2dac70c391c49fb1ad54e9047d64b52c/kundera-core-3.13-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
